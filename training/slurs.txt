@@ -1,0 +1,25 @@
+# CONTENT WARNING! this file lists slurs.
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+n_word nigg
+f_slur fag
+r_slur retard
+j_word jew

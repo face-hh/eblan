@@ -1,0 +1,13 @@
+numpy
+zstandard
+orjson
+tokenizers
+huggingface_hub
+torch==2.12.1
+transformers==5.5.0
+peft==0.21.1
+unsloth==2026.9.12
+unsloth-zoo==2026.9.8
+trl==0.24.0
+flash-linear-attention==0.5.2
+safetensors
